@@ -12,4 +12,6 @@ const  otpInputs = document.querySelectorAll('.form-control')
     })
 
 
+
+
  
